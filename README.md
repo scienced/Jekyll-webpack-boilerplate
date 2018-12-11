@@ -192,4 +192,4 @@ npm run clean:project
 * [PostCSS](http://postcss.org/)
 
 ## Buy me a beer
-If you like this project [Buy me a beer](https://paypal.me/kanbanote)
+If you like this project [Buy me a beer](https://paypal.me/kanbanote) Oh yeah
